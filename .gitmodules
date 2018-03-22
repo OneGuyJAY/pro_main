@@ -1,0 +1,3 @@
+[submodule "libs/pro_sub"]
+	path = libs/pro_sub
+	url = git@github.com:OneGuyJAY/pro_sub.git
